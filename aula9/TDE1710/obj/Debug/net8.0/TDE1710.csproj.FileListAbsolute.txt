@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\FACULDADE\2 SEMESTRE\4LABORATÓRIO DE PROGRAMAÇÃO\aula9\TDE1710\obj\Debug\net8.0\TDE1710.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\FACULDADE\2 SEMESTRE\4LABORATÓRIO DE PROGRAMAÇÃO\aula9\TDE1710\obj\Debug\net8.0\TDE1710.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\FACULDADE\2 SEMESTRE\4LABORATÓRIO DE PROGRAMAÇÃO\aula9\TDE1710\obj\Debug\net8.0\TDE1710.AssemblyInfo.cs
+C:\Users\USER\Desktop\FACULDADE\2 SEMESTRE\4LABORATÓRIO DE PROGRAMAÇÃO\aula9\TDE1710\obj\Debug\net8.0\TDE1710.csproj.CoreCompileInputs.cache

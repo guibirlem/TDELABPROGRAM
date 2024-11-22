@@ -1,0 +1,10 @@
+﻿var carro = new Carro ("Volkswagen","Gol");
+carro.ligar();
+carro.acelerar();
+carro.Frear();
+carro.Desligar();
+Console.WriteLine();
+var bicicleta = new Bicicleta ("Caloi", "BMX");
+bicicleta.Ligar();
+bicicleta.acelerar();
+bicicleta.Desligar();
